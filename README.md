@@ -1,1 +1,3 @@
-# Zell_Control
+# Zell Control.
+# CMDS;
+Lock on/off
